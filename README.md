@@ -1,4 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)](https://github.com/faizanahmad981/faizanahmad981)
+<div align="center">
+  <a href="https://github.com/faizanahmad981/faizanahmad981">
+    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="MasterHead"/>
+  </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Faizan Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
