@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking to Become a **Full Stack Developer**
 
-- 👨‍💻 Here is my Portfolio you can also check my major projects here and Services which I offer at [https://portfolio-pink-chi-58.vercel.app/](https://github.com/faizanahmad981)
+- 👨‍💻 Here is my Portfolio you can also check my major projects here and Services which I offer at [https://portfolio-pink-chi-58.vercel.app/](https://portfolio-pink-chi-58.vercel.app/)
 
 - 💬 Ask me about **React,React Native**
 
