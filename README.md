@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Final-year-project which is based on React native Application named a project "Joint Office Detector"**
 
-- Check out some of my live projects deployed and ready to explore **https://www.truthkeep.ai/**
+- Check out my First Live Website Which I created for my Client **https://www.truthkeep.ai/**
 
 - 👯 I’m Currently working on Different project of **Web Developement**
 
