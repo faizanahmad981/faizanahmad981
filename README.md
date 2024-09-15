@@ -14,6 +14,7 @@
 - 🔭 I’m currently working on **Final-year-project which is based on React native Application named a project "Joint Office Detector"**
 
 - Check out my First Live Website Which I created for my Client **https://www.truthkeep.ai/**
+- Simple Honey Bee Front-end one page using HTML CSS for beginner  **https://faizanahmad981.github.io/Honey-Bee/**
 
 - 👯 I’m Currently working on Different project of **Web Developement**
 
