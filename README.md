@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking to Become a **Full Stack Developer**
 
-- 👨‍💻 Here is my Portfolio you can also check my major projects here and Services which I offer at [https://portfolio-pink-chi-58.vercel.app/](https://portfolio-pink-chi-58.vercel.app/)
+- 👨‍💻 Here is my Portfolio you can also check my major projects here and Services which I offer at [https://faizan-portfolio-eta.vercel.app/](https://faizan-portfolio-eta.vercel.app/)
 
 - 💬 Ask me about **React,React Native**
 
