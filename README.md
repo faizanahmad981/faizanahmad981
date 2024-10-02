@@ -15,8 +15,9 @@
 - 👨‍💻 Here is my Portfolio you can also check my major projects here and Services which I offer at [https://faizan-portfolio-eta.vercel.app/](https://faizan-portfolio-eta.vercel.app/)
 - Check out my First Live Website Which I created for my Client **https://www.truthkeep.ai/**
 - these are some one page  using html css bootstrap or tailwind for practice  
-- Simple Honey Bee Front-end one page using HTML CSS for beginner  **https://faizanahmad981.github.io/Honey-Bee/**
+- Simple Honey Bee Front-end one page using HTML CSS Bootstrap for beginner  **https://faizanahmad981.github.io/Honey-Bee/**
 - Simple Nexcent website  Front-end one page using HTML CSS Bootstrap for beginner  **https://nexcent-website-rho.vercel.app/**
+- Simple Getting Client website  Front-end one page using HTML CSS Tailwind for beginner  **https://getting-clients.vercel.app/**
 - 👯 I’m Currently working on Different project of **Web Developement**
 
 - 🤝 I’m looking to Become a **Full Stack Developer**
