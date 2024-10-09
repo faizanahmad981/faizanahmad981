@@ -19,8 +19,8 @@
 - Simple Nexcent website  Front-end one page using HTML CSS Bootstrap for beginner  **https://nexcent-website-rho.vercel.app/**
 - Simple Getting Client website  Front-end one page using HTML CSS Tailwind for beginner  **https://getting-clients.vercel.app/**
 - **React js** projects which is live are following:
-- ***Real State website**  Front-end one page using React js HTML CSS bootstrap for beginner  **https://realstate-woad-seven.vercel.app/**
-- Foodi website  Front-end one page using React js HTML CSS bootstrap for beginner  **https://react-bootstrap-food-webapp.vercel.app/**
+- **Real State website**  Front-end one page using React js HTML CSS bootstrap for beginner  **https://realstate-woad-seven.vercel.app/**
+- **Foodi website**  Front-end one page using React js HTML CSS bootstrap for beginner  **https://react-bootstrap-food-webapp.vercel.app/**
 - 👯 I’m Currently working on Different project of **Web Developement**
 
 - 🤝 I’m looking to Become a **Full Stack Developer**
