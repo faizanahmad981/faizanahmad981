@@ -26,6 +26,7 @@
 - **Foodi website**  Front-end **one page** using React js HTML CSS bootstrap for beginner  **https://react-bootstrap-food-webapp.vercel.app/**
 - - **Next js** projects which is live are following:
   - **Seller Margin website and CRM**   using Next js Tailwind CSS   **https://sellermargins-website.vercel.app/** **https://sellar-margin-crm.vercel.app/dashboard/inventory-planner/replenishment**
+  -  **host Professional**   using Next js Tailwind CSS for practice to convert FIGMA design to UI Friendly website  **https://host-professional.vercel.app/** 
 - 👯 I’m Currently working on Different project of **Web Developement**
 
 - 🤝 I’m looking to Become a **Full Stack Developer**
