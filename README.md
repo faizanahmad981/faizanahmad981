@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **khawajfaizan258@gmail.com**
 
-- 📄 Know about my experiences [https://storage.googleapis.com/resume-hosting/66d5f0f7a3d29.pdf](https://storage.googleapis.com/resume-hosting/66d5f0f7a3d29.pdf)
+- 📄 Know about my experiences [https://faizan-react-1yr.tiiny.site](https://faizan-react-1yr.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
