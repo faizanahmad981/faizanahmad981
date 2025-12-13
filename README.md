@@ -13,8 +13,12 @@
 
 - 🔭 I’m currently working on **Final-year-project which is based on React native Application named a project "Joint Office Detector"**
 - 👨‍💻 Here is my Portfolio you can also check my major projects here and Services which I offer at [https://faizan-portfolio-eta.vercel.app/](https://faizan-portfolio-eta.vercel.app/)
-- Check out my First Live Website Which I created for my Client  **https://www.truthkeep.ai/**
-- these are some one page  using html css bootstrap or tailwind for practice
+- Check out  Websites Which I created for my Clients 
+- **TruthKeep AI** **https://www.truthkeep.ai/**
+- **Seller Margin website and CRM**   using Next js Tailwind CSS   **https://sellermargins-website.vercel.app/** **https://sellar-margin-crm.vercel.app/dashboard/inventory-planner/replenishment**
+- **Rabbit Hole Admin Dashboard**  using Next js Tailwind CSS   **https://rabbit-hole-admin-panel-nu.vercel.app/sign-in** **https://rabbit-hole-admin-panel-nu.vercel.app/sign-in*
+  
+- These are some one page  using html css bootstrap or tailwind for practice
 
 - Simple Honey Bee Front-end one page using HTML CSS Bootstrap for beginner  **https://faizanahmad981.github.io/Honey-Bee/** 
 - Simple Nexcent website  Front-end one page using HTML CSS Bootstrap for beginner  **https://nexcent-website-rho.vercel.app/**
@@ -25,7 +29,7 @@
 - **Real State website**  Front-end **one page** using React js HTML CSS bootstrap for beginner  **https://realstate-woad-seven.vercel.app/**
 - **Foodi website**  Front-end **one page** using React js HTML CSS bootstrap for beginner  **https://react-bootstrap-food-webapp.vercel.app/**
 - - **Next js** projects which is live are following:
-  - **Seller Margin website and CRM**   using Next js Tailwind CSS   **https://sellermargins-website.vercel.app/** **https://sellar-margin-crm.vercel.app/dashboard/inventory-planner/replenishment**
+  
   -  **host Professional**   using Next js Tailwind CSS for practice to convert FIGMA design to UI Friendly website  **https://host-professional.vercel.app/** 
 - 👯 I’m Currently working on Different project of **Web Developement**
 
