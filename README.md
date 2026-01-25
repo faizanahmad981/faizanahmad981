@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/faiziahmedtan56" target="blank"><img src="https://img.shields.io/twitter/follow/faiziahmedtan56?logo=twitter&style=for-the-badge" alt="faiziahmedtan56" /></a> </p>
 
 - 🔭 I’m currently working on **Final-year-project which is based on React native Application named a project "Joint Office Detector"**
-- 👨‍💻 Here is my Portfolio you can also check my major projects here and Services which I offer at [https://faizan-portfolio-eta.vercel.app/](https://faizan-portfolio-eta.vercel.app/)
+- 👨‍💻 Here is my Portfolio you can also check my major projects here and Services which I offer at [https://faizan-dev-portfolio-azure.vercel.app/](https://faizan-dev-portfolio-azure.vercel.app/)
 - Check out  Websites Which I created for my Clients 
 - **TruthKeep AI** **https://www.truthkeep.ai/**
 - **Seller Margin website and CRM**   using Next js Tailwind CSS   **https://sellermargins-website.vercel.app/** **https://sellar-margin-crm.vercel.app/dashboard/inventory-planner/replenishment**
