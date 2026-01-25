@@ -25,7 +25,7 @@
 - Simple Getting Client website  Front-end one page using HTML CSS Tailwind for beginner  **https://getting-clients.vercel.app/**
 - **React js** projects which is live are following:
 - - Front-end GYM **Complete Website**  using React js Bootstrap add a recommendation system for fitness goal going to add AI in that  **https://fitness-gym-seven.vercel.app/**
-- Front-end Remote Software Company LuminaXpert **complete Website**  using React js Bootstrap  **https://lumina-xpert.vercel.app/** 
+- Front-end Remote Software Company LuminaXpert **complete Website**  using React js Bootstrap  **https://luminaaa-xpert.vercel.app/** 
 - **Real State website**  Front-end **one page** using React js HTML CSS bootstrap for beginner  **https://realstate-woad-seven.vercel.app/**
 - **Foodi website**  Front-end **one page** using React js HTML CSS bootstrap for beginner  **https://react-bootstrap-food-webapp.vercel.app/**
 - - **Next js** projects which is live are following:
