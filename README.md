@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Faizan%20Ahmed&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" alt="Header"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Automation+Architect;React+%2F+Next.js+Specialist;n8n+Workflow+Expert" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/faizan-ahmed258/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://faizan-dev-portfolio-azure.vercel.app/">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=FAIZAN%20AHMED&fontSize=80&fontColor=61DAFB&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Automation%20Architect&descAlignY=70&descSize=20&theme=tokyonight" width="100%" alt="Faizan Ahmed Header"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+Intelligent+Web+Systems;Converting+Designs+to+Pixel-Perfect+UI;Architecting+n8n+AI+Workflows;Available+for+Remote+%2B+Freelance" alt="Typing SVG" />
+</p>
+
+<div align="center">
   <a href="mailto:khawajfaizan258@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/🚀%20HIRE%20ME-Contact%20Now-61DAFB?style=for-the-badge&labelColor=000000" alt="Hire Me" />
   </a>
-  <a href="https://faizan-dev-portfolio-azure.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/faizan-ahmed258/">
+    <img src="https://img.shields.io/badge/🤝%20LET'S%20CONNECT-LinkedIn-0077B5?style=for-the-badge&labelColor=000000" alt="LinkedIn" />
   </a>
-</p>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizanahmad981&label=Profile%20Views&color=61DAFB&style=flat-square" alt="Views" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=faizanahmad981&label=PROFILE%20VIEWS&color=61DAFB&style=flat-square" alt="Views" />
 </p>
 
 ---
@@ -36,32 +36,6 @@ I am a **Software Engineer** based in Islamabad, specializing in high-end **Fron
 * 🤖 **AI Automation:** Expert in building autonomous systems using **n8n** and OpenAI.
 * 🎨 **Design Philosophy:** Pixel-perfect, responsive, and performance-optimized digital experiences[cite: 20].
 * 🤝 **Goal:** Evolving into a Full Stack Engineer while delivering world-class freelance solutions[cite: 17].
-
-<h1 align="center">Hi 👋, I'm Faizan Ahmed</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Automation+Architect;React+%2F+Next.js+Specialist;n8n+Workflow+Expert" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/faizan-ahmed258/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:khawajfaizan258@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
-
----
-
-### 👨‍💻 Professional Summary
-I am a **Software Engineer** based in Islamabad, specializing in high-end Frontend Engineering and AI Automation. Currently at **Databiqs**, I bridge the gap between aesthetic UI/UX and complex system logic.
-
-- 🔭 **Current Focus:** Advanced AI workflows and scalable Next.js architectures.
-- 🤖 **AI Automation:** Expert in building autonomous systems using **n8n** and OpenAI.
-- 🎨 **Design Philosophy:** Pixel-perfect, responsive, and performance-optimized digital experiences.
-- 🤝 **Goal:** Evolving into a Full Stack Engineer while delivering world-class freelance solutions.
-
----
 
 ### 🚀 Featured Engineering Projects
 
